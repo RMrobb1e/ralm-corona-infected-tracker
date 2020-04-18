@@ -1,5 +1,12 @@
 # 🍃 RALM Corona-Tracker-App
 
+## 🚀 Getting Started
+
+### Requirements
+
+- [Gatsby CLI](https://www.npmjs.com/package/gatsby-cli)
+- [Yarn](https://yarnpkg.com/en/)
+
 ## ⚡ Clone
 
 - Clone this repo to your local machine using `https://github.com/RMrobb1e/ralm-corona-infected-tracker.git`
@@ -7,19 +14,21 @@
 ### Setup
 
 - You should have yarn installed on your local machine.
-  > Install gatsby-cli first:
+ 
+- Install gatsby-cli first:
 
 ```shell
 $ npm install -g gatsby-cli
 ```
 
-> now install npm packages and dependencies
+- now install npm packages and dependencies
 
 ```shell
 $ npm install
+```
 
 
-#### 🧰 What This Includes
+### 🧰 What This Includes
 
 - [Yarn](https://yarnpkg.com/en/)
 - [Gatsby](https://www.gatsbyjs.org/)
@@ -29,10 +38,5 @@ $ npm install
 - [Leaflet](https://leafletjs.com/)
 - [React Leaflet](https://react-leaflet.js.org)
 
-## 🚀 Getting Started
 
-### Requirements
 
-- [Gatsby CLI](https://www.npmjs.com/package/gatsby-cli)
-- [Yarn](https://yarnpkg.com/en/)
-```
